@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import Logo from "./logo.png";
 import { grammar } from "../data";
 import CommonPopup from "./CommonPopup";
-
 export default function Content() {
   const [data] = useState(grammar);
   const [openDialog, setOpenDialog] = useState(false);
