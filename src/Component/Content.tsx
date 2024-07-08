@@ -37,7 +37,6 @@ export default function Content() {
           padding: "10px 20px",
         }}
       >
-        
         {data.map((items) => {
           return (
             <div
