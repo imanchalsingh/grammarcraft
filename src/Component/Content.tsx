@@ -27,7 +27,6 @@ export default function Content() {
           </p>
         </div>
       </nav>
-
       <div
         style={{
           display: "flex",
