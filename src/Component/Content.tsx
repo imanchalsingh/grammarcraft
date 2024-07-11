@@ -8,6 +8,7 @@ export default function Content() {
   const [currentData, setCurrentData] = useState<any>(null);
   return (
     <div>
+      
       <nav style={{ width: "100%", alignItems: "center" }}>
         <div
           style={{
