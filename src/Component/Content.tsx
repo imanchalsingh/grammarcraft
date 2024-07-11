@@ -7,8 +7,7 @@ export default function Content() {
   const [openDialog, setOpenDialog] = useState(false);
   const [currentData, setCurrentData] = useState<any>(null);
   return (
-    <div>
-      
+    <div>     
       <nav style={{ width: "100%", alignItems: "center" }}>
         <div
           style={{
