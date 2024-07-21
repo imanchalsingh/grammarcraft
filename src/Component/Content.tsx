@@ -66,7 +66,6 @@ export default function Content() {
           data={currentData}
         />
       )}
-    </div>
-    
+    </div> 
   );
 }
