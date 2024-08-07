@@ -35,8 +35,7 @@ export default function Content() {
           alignItems: "center",
           padding: "10px 20px",
         }}
-      >   
-      
+      >     
         {data.map((items) => {
           return (
             <div
