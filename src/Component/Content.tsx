@@ -59,6 +59,7 @@ export default function Content() {
           );
         })}
       </div>
+      
       {openDialog && (
         <CommonPopup
           open={openDialog}
